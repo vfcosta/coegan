@@ -1,0 +1,12 @@
+.vscode
+generator_noise.pt
+.env
+.idea
+__pycache__
+data
+output
+runs
+experiments
+.ipynb_checkpoints/
+old_runs
+VFCOSTA.txt
