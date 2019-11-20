@@ -51,7 +51,7 @@ class GanTrain:
     def create_dataset(cls):
         transform = transforms.Compose([
             transforms.ToTensor(),
-            transforms.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))
+            transforms.Normalize(mean=[0.5], std=[0.5])
         ])
         if hasattr(dsets, config.gan.dataset):
             dataset = getattr(dsets, config.gan.dataset)(root=f"./data/{config.gan.dataset}/", train=True,
