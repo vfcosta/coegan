@@ -7,7 +7,7 @@ This repository contains the implementation of COEGAN and all code used in the e
 Install pytorch:
 
 ```
-conda install pytorch torchvision cuda90 -c pytorch
+conda install pytorch=1.3.0 torchvision cuda90 -c pytorch
 ```
 
 Install dependencies:
