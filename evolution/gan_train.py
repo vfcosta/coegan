@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 #!/usr/bin/env python
 
 # References:

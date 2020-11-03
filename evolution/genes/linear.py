@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 import torch.nn as nn
 from .layer import Layer
 from ..config import config

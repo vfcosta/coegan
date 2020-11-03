@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 import torch
 from evolution.gan_train import GanTrain
 # import better_exceptions; better_exceptions.hook()

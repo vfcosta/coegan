@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 import torch.nn as nn
 from .layer2d import Layer2D
 import numpy as np

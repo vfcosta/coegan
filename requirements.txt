@@ -11,6 +11,5 @@ tensorboardX==1.7
 torchvision==0.4.1
 scikit_learn==0.21.2
 seaborn==0.9.0
-future-fstrings==1.1.0
 python-dotenv==0.10.2
 imageio==2.5.0

@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 import os
 from torchvision.transforms import functional as F
 from scipy.misc import imresize

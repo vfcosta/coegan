@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 import torch
 import torchvision.utils as vutils
 import pandas as pd

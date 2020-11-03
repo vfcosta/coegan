@@ -1,4 +1,3 @@
-# -*- coding: future_fstrings -*-
 from .genes import Linear, Conv2d, Optimizer, Deconv2d
 import numpy as np
 from .config import config
